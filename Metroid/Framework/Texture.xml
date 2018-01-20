@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<SpriteContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sprites>
+    <Sprite Sprite_Name="Player_0" Rect_Left="1" Rect_Top="620" Rect_Right="17" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_1" Rect_Left="19" Rect_Top="620" Rect_Right="35" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_2" Rect_Left="37" Rect_Top="620" Rect_Right="53" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_3" Rect_Left="55" Rect_Top="620" Rect_Right="71" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_4" Rect_Left="73" Rect_Top="614" Rect_Right="93" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_5" Rect_Left="95" Rect_Top="614" Rect_Right="109" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_6" Rect_Left="111" Rect_Top="614" Rect_Right="126" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_7" Rect_Left="128" Rect_Top="614" Rect_Right="145" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_8" Rect_Left="147" Rect_Top="614" Rect_Right="167" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_9" Rect_Left="169" Rect_Top="627" Rect_Right="187" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_10" Rect_Left="189" Rect_Top="629" Rect_Right="203" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_11" Rect_Left="205" Rect_Top="637" Rect_Right="224" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_12" Rect_Left="226" Rect_Top="629" Rect_Right="240" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_13" Rect_Left="242" Rect_Top="637" Rect_Right="261" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_14" Rect_Left="263" Rect_Top="639" Rect_Right="275" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_15" Rect_Left="277" Rect_Top="639" Rect_Right="289" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_16" Rect_Left="291" Rect_Top="639" Rect_Right="303" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_17" Rect_Left="305" Rect_Top="639" Rect_Right="317" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_18" Rect_Left="319" Rect_Top="620" Rect_Right="337" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_19" Rect_Left="341" Rect_Top="621" Rect_Right="361" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_20" Rect_Left="363" Rect_Top="621" Rect_Right="385" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_21" Rect_Left="387" Rect_Top="621" Rect_Right="412" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_22" Rect_Left="414" Rect_Top="621" Rect_Right="437" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_23" Rect_Left="439" Rect_Top="614" Rect_Right="453" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_24" Rect_Left="455" Rect_Top="614" Rect_Right="467" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_25" Rect_Left="472" Rect_Top="614" Rect_Right="489" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_26" Rect_Left="491" Rect_Top="614" Rect_Right="510" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_27" Rect_Left="512" Rect_Top="614" Rect_Right="530" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Player_28" Rect_Left="532" Rect_Top="614" Rect_Right="550" Rect_Bottom="652" Texture_Name="Brinstar.png" />
+    <Sprite Sprite_Name="Bullet_0" Rect_Left="91" Rect_Top="1290" Rect_Right="97" Rect_Bottom="1295" Texture_Name="Brinstar.png" />
+  </Sprites>
+</SpriteContainer>
