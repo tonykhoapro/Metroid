@@ -532,11 +532,19 @@
     <Image Include="TileSet.png">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="ridley.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="kraid.png">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <Xml Include="CollisionBoxes.xml" />
     <Xml Include="Texture.xml" />
     <Xml Include="MetroidLevel.xml" />
+    <Xml Include="ridley.xml" />
+    <Xml Include="kraid.xml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="TiledBackground.json" />

@@ -193,11 +193,15 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="Brinstar.png" />
+    <Image Include="kraid.png" />
+    <Image Include="ridley.png" />
     <Image Include="TileSet.png" />
   </ItemGroup>
   <ItemGroup>
     <Xml Include="CollisionBoxes.xml" />
+    <Xml Include="kraid.xml" />
     <Xml Include="MetroidLevel.xml" />
+    <Xml Include="ridley.xml" />
     <Xml Include="Texture.xml" />
   </ItemGroup>
   <ItemGroup>
